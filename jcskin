@@ -1,0 +1,10 @@
+{
+  "name": "jcskin",
+  "anchorColor": "#4aa3df",
+  "candyColor": "#ffd166",
+  "pendulumLength": 120,
+  "pendulumSize": 0.8,
+  "pendulumImage": "https://Waledite.github.io/jcskin/jc-bob.png",
+  "borderImage": "https://Waledite.github.io/jcskin/jc-frame.png",
+  "secondaryImage": "https://Waledite.github.io/jcskin/jc-extra.png"
+}
