@@ -1,8 +1,8 @@
 {
   "name": "jcskin",
   "anchorColor": "#4aa3df",
-  "candyColor": "",
-  "candyEnabled": true,
+  "candyColor": "#ffd166",
+  "candyEnabled": false,
   "elementBorderColor": "#4aa3df",
   "elementBorderEnabled": true,
   "borderEnabled": true,
