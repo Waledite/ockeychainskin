@@ -2,7 +2,7 @@
   "name": "jcskin",
   "anchorColor": "#4aa3df",
   "candyColor": "",
-  "candyEnabled": false,
+  "candyEnabled": true,
   "elementBorderColor": "#4aa3df",
   "elementBorderEnabled": true,
   "borderEnabled": true,
