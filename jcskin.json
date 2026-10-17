@@ -4,7 +4,7 @@
   "candyColor": "#ffd166",
   "pendulumLength": 100,
   "pendulumSize": 0.8,
-  "pendulumImage": "https://Waledite.github.io/ockeychainskin/jc-bob.webp",
-  "borderImage": "https://Waledite.github.io/ockeychainskin/jc-frame.png",
-  "secondaryImage": "https://Waledite.github.io/ockeychainskin/jc-extra.webp"
+  "pendulumImage": "https://raw.githubusercontent.com/waledite/ockeychainskin/main/jc-bob.webp",
+  "borderImage": "https://raw.githubusercontent.com/waledite/ockeychainskin/main/jc-frame.png",
+  "secondaryImage": "https://raw.githubusercontent.com/waledite/ockeychainskin/main/jc-extra.webp"
 }
